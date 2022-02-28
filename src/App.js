@@ -9,7 +9,7 @@ export default function App() {
           <div className="App-title shadow">Dictionary</div>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
           <small>
