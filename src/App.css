@@ -15,23 +15,14 @@ a {
   margin: 30px 0;
 }
 
-.App-title {
+.App-logo {
   max-width: 200px;
+  display: block;
   margin: 0 auto;
-  text-align: center;
-  font-size: 30px;
-  font-weight: bold;
-  color: #c597f0;
-  text-transform: uppercase;
-  background: white;
-  border-radius: 10px;
-  border-top: 5px solid #f097d2;
-  border-bottom: 5px solid yellow;
-  border-left: 5px solid yellow;
-  border-right: 5px solid #f097d2;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  color: #646262;
 }
