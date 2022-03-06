@@ -1,9 +1,9 @@
 body {
-  background: #f9f8fe;
+  background: #fae8fe;
 }
 
 a {
-  color: #9670f4;
+  color: #d729de;
 }
 
 .App {
@@ -25,4 +25,8 @@ a {
   text-align: center;
   margin: 30px 0;
   color: #646262;
+}
+
+.myName {
+  color: #e67c89;
 }

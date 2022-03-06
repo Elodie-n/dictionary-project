@@ -14,14 +14,23 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
+            This project was coded by{" "}
+            <span className="myName">Elodie Nerjat</span> and is{" "}
             <a
               href="https://github.com/Elodie-n/dictionary-project"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Open-source code
+              open-sourced on GitHub
             </a>{" "}
-            by Elodie Nerjat
+            and{" "}
+            <a
+              href="https://hopeful-tereshkova-f6494e.netlify.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              hosted on Netlify
+            </a>
           </small>
         </footer>
       </div>
